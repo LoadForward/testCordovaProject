@@ -1,0 +1,2 @@
+# testCordovaProject
+Cordova组件化构建webAPP
