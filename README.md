@@ -5,6 +5,7 @@ Cordova组件化构建webAPP
   &nbsp;&nbsp;请自行安装
 ### 2.安装cordova<br>
   &nbsp;&nbsp;npm install -g cordova<br>
+  &nbsp;&nbsp;若无权限，更该命令：sudo npm install -g cordova<br>
 ### 3.创建项目
   &nbsp;&nbsp;cordova create testCordovaProject com.catchzeng.testCordova testCordova<br>
   #### &nbsp;&nbsp;参数含义：
